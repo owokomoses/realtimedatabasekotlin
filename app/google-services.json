@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "42469732226",
+    "project_id": "realtimedatabase-98d8d",
+    "storage_bucket": "realtimedatabase-98d8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42469732226:android:da21f4cd623ef4d377a99b",
+        "android_client_info": {
+          "package_name": "com.owoko.realtimedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42469732226-2shg4aqtj4bothubo8dphb8qnbfj3c5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFOF4b2BrhoBHcFlogHUQ6E7gfcOvNRxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42469732226-2shg4aqtj4bothubo8dphb8qnbfj3c5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
